@@ -1,0 +1,11 @@
+{
+  "name": "teacher_exchange",
+  "version": "0.0.1",
+  "description": "Ebay like application for teachers to exchange classroom resources",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Veni Mitev",
+  "license": "ISC"
+}
